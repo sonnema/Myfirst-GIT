@@ -1,0 +1,5 @@
+var status = { taskStatus:
+                {"Completed": "5",
+                "Pending": "15",
+                "In-progress": "80"}
+            };
